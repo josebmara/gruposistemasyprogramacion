@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Base de datos local del prototipo
+adivina_estudio.db
+
+# Secretos reales (usa secrets.toml.example como plantilla)
+.streamlit/secrets.toml
+
+.DS_Store
